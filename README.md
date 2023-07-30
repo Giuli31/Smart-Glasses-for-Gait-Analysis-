@@ -44,3 +44,5 @@ In order to start a new session of acquisitions, the user has to push the button
 
 ### Bugs
 During the pairing between device and application may happen that the device fails to access the serial port. In this case, a dynamic window will open showing the wrong serial port and the message "ERROR PORT CONNECTION: ". It is recommended to reset the application.
+
+(This project is the result of teamwork)
